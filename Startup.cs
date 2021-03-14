@@ -4,6 +4,12 @@ namespace GitExercise
 {
     public class Startup
     {
+        private static bool CeckCredentials()
+        {
+            Console.Write("nter password");
+            string password = Console.ReadLine();
+            Console.Clear();
+        }
         public static void Main()
         {
             Console.WriteLine("Console Calculator App");

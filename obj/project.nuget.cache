@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oklfYkBHdKtmzCCO5GOZP1xohF/ynQNw9XS7OgSVIqlo5wri5jaLXFVRP/Zfnda54D8dFcos0bl+zOBwVE9rpw==",
+  "success": true,
+  "projectFilePath": "D:\\GitExercise\\GitExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aico60\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
